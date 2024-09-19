@@ -1,2 +1,2 @@
-*.gb
-*.save
+obj/*
+compile.bat
